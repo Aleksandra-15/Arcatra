@@ -1,0 +1,292 @@
+.frame li {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height, or 133% */
+  color: #322f2e;
+  text-decoration: none;
+}
+.frame {
+  list-style-type: none;
+}
+.go {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  color: #ffffff;
+}
+.go {
+  background: #c47344;
+  border-radius: 50px;
+}
+.maps {
+  list-style-type: none;
+}
+.wail p {
+  background: #f9a38f;
+  border-radius: 20px;
+}
+.title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 110px;
+  line-height: 119px;
+  /* identical to box height, or 108% */
+  text-align: center;
+  color: #322f2e;
+}
+.is p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 33px;
+  /* or 157% */
+  text-align: center;
+  color: #322f2e;
+}
+.lets-go {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  text-align: center;
+  background: #c47344;
+  border-radius: 50px;
+}
+.question {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  color: #c47344;
+}
+.cards {
+  list-style-type: none;
+}
+.look {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 52px;
+  /* identical to box height, or 124% */
+  text-align: center;
+  color: #322f2e;
+}
+.card p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  /* identical to box height, or 175% */
+  text-align: center;
+  color: #322f2e;
+}
+.More {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  /* identical to box height, or 175% */
+  text-align: center;
+  color: #322f2e;
+}
+.learn {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  /* identical to box height, or 175% */
+  text-align: center;
+  color: #322f2e;
+}
+.relax {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 52px;
+  /* identical to box height, or 124% */
+  text-align: center;
+  color: #322f2e;
+}
+.Mo {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  /* identical to box height, or 175% */
+  text-align: center;
+  color: #322f2e;
+}
+.iam {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 52px;
+  /* identical to box height, or 124% */
+  text-align: center;
+  color: #322f2e;
+}
+.le {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  /* identical to box height, or 175% */
+  text-align: center;
+  color: #322f2e;
+}
+.soshial {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 52px;
+  /* identical to box height, or 124% */
+  text-align: center;
+  color: #322f2e;
+}
+.do{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 53px;
+line-height: 62px;
+/* or 117% */
+color: #322F2E;
+}
+.promo p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 33px;
+/* or 157% */
+color: #322F2E;
+}
+.emel{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+color: rgba(0, 0, 0, 0.45);
+}
+.links{
+    list-style-type: none;
+}
+.links{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+ text-decoration: none;
+color: #313131;
+}
+.solutions{
+ list-style-type: none;
+}
+.solutions li{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+text-decoration: none;
+color: #313131;
+}
+.Resources{
+    list-style-type: none;
+}
+.Resources li{
+    
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+text-decoration: none;
+color: #313131;
+}
+.to{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+text-decoration: none;
+color: #D3D3D3;
+}
+.terms{
+    list-style-type: none;
+}
+.our {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    /* or 154% */
+    color: #313131;
+}
+.making h4{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+color: #313131;
+}
+.making h5{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+color: #313131;
+}
+.making p{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* or 154% */
+color: #D3D3D3;
+}
+.making h6{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height, or 154% */
+color: #D3D3D3;
+}
